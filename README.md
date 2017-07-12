@@ -1,4 +1,31 @@
 #  Drinx
+A happy hour finding app to help you quench your thirst during the happiest time of day.
+
+## Potential Features
+* Google Maps API integration
+* Show timers for start/end times of happy hours
+* Show Happy Hour location on map
+* Easy access to Happy Hour Menus
+* Happy Hours can be filtered by distance
+* Establishments will be able to set up accounts to update their Happy Hour menus (Pending approval of business)
+* Uber/Lyft integration for safe traveling
+* Pub Crawl Coordination: Choose your times, and choose your pubs! Share the crawl with your friends (invite via code?)
+* Bar search feature
+* Facebook/Social Integration
+* User Profiles/Favorite Spots/Crawls
+* Rate Pubs/Happy Hours
+* Filter by bar type
+
+## Tech Stack
+* React Native
+* Ignite
+* Sass
+* HTML
+* Axios (API Requests)
+* Node
+* Firebase
+* Yarn
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
