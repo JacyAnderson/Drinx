@@ -1,5 +1,9 @@
 #  Drinx
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+
 A happy hour finding app to help you quench your thirst during the happiest time of day.
+
+* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## Potential Features
 * Google Maps API integration
@@ -25,10 +29,6 @@ A happy hour finding app to help you quench your thirst during the happiest time
 * Node
 * Firebase
 * Yarn
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
-
-* Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
 ## :arrow_up: How to Setup
 
