@@ -5,7 +5,7 @@ A happy hour finding app to help you quench your thirst during the happiest time
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
-## Potential Features
+## :fireworks: Potential Features
 * Google Maps API integration
 * Show timers for start/end times of happy hours
 * Show Happy Hour location on map
@@ -20,7 +20,7 @@ A happy hour finding app to help you quench your thirst during the happiest time
 * Rate Pubs/Happy Hours
 * Filter by bar type
 
-## Tech Stack
+## :signal_strength: Tech Stack
 * React Native
 * Ignite
 * Sass
